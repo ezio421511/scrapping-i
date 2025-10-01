@@ -1,0 +1,53 @@
+{
+  "profiles": [
+    {
+      "name": "David L. Gill",
+      "email": "kasumi@gmail.com",
+      "phone": "(123) 456-7890",
+      "linkedin": "https://www.linkedin.com/in/davidgill",
+      "career history": [
+        {
+          "company": "DISCO",
+          "position": "Senior Software Engineer",
+          "start date": "2020-01-01",
+          "end date": "Present",
+          "responsibilities": [
+            "Built end-to-end features for DISCO’s legaltech web platform, integrating ingestion services with React-based document review and timeline tools.",
+            "Developed APIs and pipelines for AI Timelines and Cecilia AI doc summaries, enabling interactive case insights in the frontend.",
+            "Integrated vLex legal data library into case review dashboards, giving users seamless access to statutes and case law.",
+            "Developed enhancements to the document list UI: implemented dynamic custom columns (e.g. exhibit set, tag, status), light/dark mode toggle, and improved rendering of images/PDFs (zoom, rotate) to improve reviewer usability.",
+            "Developed 10+ new application features and distributed services that support high-scale applications. Helped evolve front-end and back-end stack."
+          ]
+        },
+        {
+          "company": "Visa – Cybersource",
+          "position": "Software Engineer",
+          "start date": "2018-06-01",
+          "end date": "2019-12-31",
+          "responsibilities": [
+            "Worked on the Decision Manager dashboard: built features allowing merchants to define business rules via visual interfaces, filter transactions by geolocation, order velocity.",
+            "Delivered merchant risk dashboards that allowed clients to visualize fraud alerts and transaction anomalies in real time.",
+            "Owned features in merchant dashboard for payments and fraud reporting: building UI panels for risk alerts, transaction summaries, filtering/search of transaction data, error logs.",
+            "Developed analytics panels that compare real-time and historical data across dimensions (processor, currency, payment channel etc.), with event-triggered alerts when metrics deviate (e.g., spike in declines, unusual reason codes).",
+            "Extended REST APIs and backend services for Risk Management feature updates, supporting payer authentication and enhanced reporting."
+          ]
+        }
+      ],
+      "education": {
+        "institution": "State University",
+        "degree": "Bachelor of Science in Computer Science",
+        "start date": "2014-09-01",
+        "end date": "2018-05-31"
+      }
+    },
+    { "name": "John Doe" }
+  ],
+  "rules": [
+    "Retain the candidate’s core facts and achievements, but adapt them to align closely with the job description by incorporating relevant technologies, frameworks, and industry terminology.",
+    "Incorporate any missing technical skills or tools from the job description, while preserving parts of the original bullet sentences for continuity.",
+    "Reorder bullet points to prioritize the most relevant experiences and skills for the job description, placing them at the top of each section.",
+    "Make every bullet sentences detailed and high-aligned with job description. Avoid generic or vague statements and duplications or restates",
+    "Use action verbs (e.g., built, designed, optimized, delivered) and high-level tech terms, not just skill titles (e.g., APIs, microservices, dashboards, data pipelines, CI/CD).",
+    "Must return in JSON format."
+  ]
+}
